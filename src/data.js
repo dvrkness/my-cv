@@ -1,7 +1,7 @@
 export const CVData = {
     personalData: {
         name: 'Manh Hung Nguyen',
-        title: 'Full-Stack Developer Internship',
+        title: 'Full-Stack Developer',
         contacts: [
             { type: 'email', value: 'nmanhung99@gmail.com' },
             { type: 'phone', value: '+84 395907089' },
@@ -52,6 +52,7 @@ export const CVData = {
             groups: [
                 {
                     sectionHeader: 'MISA',
+                    description: 'ㅤProduct Company',
                     items: [
                         {
                             title: 'ShortLink',
@@ -69,6 +70,8 @@ export const CVData = {
                 },
                 {
                     sectionHeader: 'Software Engineering Laboratory',
+                    description:
+                        'ㅤAt University of Engineering and Technology',
                     items: [
                         {
                             title: 'Surveillance',
@@ -87,7 +90,8 @@ export const CVData = {
                     ],
                 },
                 {
-                    sectionHeader: 'Personal Projects',
+                    sectionHeader: '‍Personal Projects',
+                    description: 'ㅤ💁ㅤ💻ㅤ❤️',
                     items: [
                         {
                             title: 'EZSun',
